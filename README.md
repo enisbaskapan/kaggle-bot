@@ -1,6 +1,6 @@
 # 🔵 KaggleBot 🔵
 
-Welcome to KaggleBot, a command-line tool designed to utilize LLM's to use Kaggle API.
+Welcome to KaggleBot, a command-line tool designed to utilize LLMs to use Kaggle API.
 
 ## Features
 
