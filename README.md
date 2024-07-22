@@ -21,7 +21,7 @@ python configure.py -m <model_name> -k <api_key> -p <model_provider>
 ```
 
 ## Examples
-/img/example.png
+./img/example.png
 
 
 
